@@ -1,0 +1,81 @@
+General Terminal Shortcuts
+Ctrl + A: Move to the start of the line.
+
+Ctrl + E: Move to the end of the line.
+
+Ctrl + U: Delete from the cursor to the start of the line.
+
+Ctrl + K: Delete from the cursor to the end of the line.
+
+Ctrl + W: Delete the word before the cursor.
+
+Ctrl + L: Clear the terminal screen.
+
+Ctrl + C: Stop the current process/command.
+
+Ctrl + D: Log out or exit the terminal.
+
+Ctrl + Z: Pause the current process (can be resumed).
+
+Ctrl + R: Search command history (backward search).
+
+Up Arrow: Show the previous command (from the command history).
+
+Down Arrow: Show the next command (from the command history).
+
+!!: Repeat the last command.
+
+!n: Repeat the nth command from history.
+
+Tab: Auto-complete commands, files, or directories.
+
+Tab twice: List all possible completions.
+
+Ctrl + Shift + C: Copy the selected text or command.
+
+Ctrl + Shift + V: Paste copied text or command.
+
+Ctrl + Shift + N: Open a new terminal window.
+
+Ctrl + Shift + T: Open a new tab in the terminal.
+
+Ctrl + Tab or Ctrl + PageDown: Switch between terminal tabs2.
+
+File Management Shortcuts
+Ctrl + N: Open a new window.
+
+Ctrl + W: Close the current window.
+
+Ctrl + Shift + N: Create a new folder.
+
+Alt + D: Select the address bar.
+
+Ctrl + Shift + E: Display all folders above the selected folder.
+
+Ctrl + F: Search for a file or folder.
+
+F2: Rename the selected item.
+
+F11: Maximize or minimize the active window.
+
+System Shortcuts
+Alt + F2: Run a command.
+
+Alt + Tab: Switch between open applications.
+
+Alt + F4: Close the active window.
+
+Ctrl + Alt + Delete: Open the task manager or log out.
+
+Ctrl + Alt + L: Lock the screen.
+
+Ctrl + Alt + T: Open a terminal window.
+
+Text Editing Shortcuts
+Ctrl + Left/Right Arrow: Move the cursor one word at a time.
+
+Ctrl + Shift + Left/Right Arrow: Select text one word at a time.
+
+Shift + Home/End: Select text from the cursor to the beginning or end of the line.
+
+Ctrl + Home/End: Move the cursor to the beginning or end of the document.
