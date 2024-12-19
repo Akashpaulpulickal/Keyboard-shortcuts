@@ -1,0 +1,105 @@
+General Shortcuts
+Command + C: Copy
+
+Command + X: Cut
+
+Command + V: Paste
+
+Command + Z: Undo
+
+Command + Y: Redo
+
+Command + A: Select all
+
+Command + Q: Quit the active app
+
+Command + W: Close the active window
+
+Command + N: Open a new window
+
+Command + T: Open a new tab
+
+Command + P: Print the current document
+
+Command + S: Save the current document
+
+Command + O: Open a file
+
+Command + F: Find items in a document or open a Find window
+
+Command + H: Hide the windows of the front app
+
+Command + M: Minimize the front window to the Dock
+
+Command + Space: Show or hide the Spotlight search field
+
+Command + Option + Esc: Force quit an app
+
+Finder and System Shortcuts
+Command + Shift + N: Create a new folder
+
+Command + Delete: Move the selected item to the Trash
+
+Command + Shift + Delete: Empty the Trash
+
+Command + D: Duplicate the selected item
+
+Command + I: Show the Get Info window for a selected file
+
+Command + J: Show View Options
+
+Command + K: Connect to a server
+
+Command + L: Make an alias of the selected item
+
+Command + R: Show the original file for the selected alias
+
+Command + T: Show or hide the tab bar in Finder windows
+
+Command + Option + T: Show or hide the toolbar when a single tab is open in the current Finder window
+
+Command + Shift + G: Open a Go to Folder window
+
+Document Shortcuts
+Command + B: Bold the selected text
+
+Command + I: Italicize the selected text
+
+Command + U: Underline the selected text
+
+Command + Shift + C: Show the Colors window
+
+Command + Shift + V: Paste and match the style of the destination text
+
+Command + Shift + Z: Redo the previous command
+
+Command + Shift + S: Display the Save As dialog
+
+Accessibility Shortcuts
+Command + Option + F5: Open the Accessibility Options window
+
+Command + Option + 8: Turn VoiceOver on or off
+
+Command + Option + F: Start dictation
+
+Command + Option + D: Show or hide the Dock
+
+Screenshot Shortcuts
+Command + Shift + 3: Capture the entire screen
+
+Command + Shift + 4: Capture a selected portion of the screen
+
+Command + Shift + 5: Open the Screenshot utility
+
+Command + Shift + 6: Capture the Touch Bar (if your Mac has one)
+
+Startup Shortcuts
+Command + R: Start up from the built-in macOS Recovery system
+
+Option: Start up to Startup Manager, which allows you to choose other available startup disks or volumes
+
+Shift: Start up in Safe Mode
+
+D: Start up to the Apple Diagnostics utility
+
+Command + Option + P + R: Reset NVRAM or PRAM
