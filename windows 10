@@ -1,0 +1,90 @@
+General Shortcuts
+Ctrl + C: Copy
+
+Ctrl + X: Cut
+
+Ctrl + V: Paste
+
+Ctrl + Z: Undo
+
+Ctrl + Y: Redo
+
+Ctrl + A: Select all
+
+Alt + Tab: Switch between open apps
+
+Alt + F4: Close the active window
+
+Windows + D: Show or hide the desktop
+
+Windows + L: Lock your PC
+
+Windows Key Shortcuts
+Windows + E: Open File Explorer
+
+Windows + I: Open Settings
+
+Windows + S: Open Search
+
+Windows + R: Open the Run dialog box
+
+Windows + X: Open the Quick Link menu
+
+Windows + Tab: Open Task View
+
+Windows + A: Open Action Center
+
+Windows + N: Open Notification Center
+
+Windows + W: Open Widgets
+
+Windows + K: Open Connect
+
+Windows + H: Launch voice typing
+
+Windows + G: Open Xbox Game Bar
+
+Windows + P: Open Project menu (for switching display modes)
+
+Windows + M: Minimize all open windows
+
+Windows + Shift + M: Restore minimized windows on the desktop
+
+Windows + V: Open Clipboard history (if enabled)
+
+Windows + . (period): Open emoji panel
+
+File Explorer Shortcuts
+Ctrl + N: Open a new window
+
+Ctrl + W: Close the current window
+
+Ctrl + Shift + N: Create a new folder
+
+Alt + D: Select the address bar
+
+Ctrl + Shift + E: Display all folders above the selected folder
+
+Ctrl + F: Search for a file or folder
+
+F2: Rename the selected item
+
+F11: Maximize or minimize the active window
+
+Taskbar Shortcuts
+Windows + T: Cycle through apps on the taskbar
+
+Windows + Number (0-9): Open the app pinned to the taskbar in the position indicated by the number
+
+Windows + Alt + Number (0-9): Open the Jump List for the app pinned to the taskbar in the position indicated by the number
+
+Windows + Ctrl + Number (0-9): Switch to the last active window of the app pinned to the taskbar in the position indicated by the number
+
+Virtual Desktop Shortcuts
+Windows + Ctrl + D: Add a virtual desktop
+
+Windows + Ctrl + Right Arrow: Switch to the virtual desktop on the right
+
+Windows + Ctrl + Left Arrow: Switch to the virtual desktop on the left
+
+Windows + Ctrl + F4: Close the current virtual desktop
